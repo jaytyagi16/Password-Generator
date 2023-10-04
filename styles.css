@@ -255,4 +255,8 @@ h1{
         width: 85%;
         max-width: 400px;
     }
+    .check input:checked::before{
+        font-size: 0.95rem;
+        font-weight: 600;
+    }
 }
